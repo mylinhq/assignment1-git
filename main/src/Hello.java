@@ -7,6 +7,7 @@ public class Hello {
             System.out.println(shrek);
         }
         System.out.println("I love you daddy");
+        System.out.println("shrek forever after");
     }
 
 }
