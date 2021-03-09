@@ -17,5 +17,6 @@ public class Hello {
     }
     private void myMethod(){
         System.out.println(shrek + gingy);
+        String fiona = "princess";
     }
 }
