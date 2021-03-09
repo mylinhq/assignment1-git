@@ -6,5 +6,7 @@ public class Hello {
         for(int i = 0; i < 4; i++){
             System.out.println(shrek);
         }
+        System.out.println("I love you daddy");
     }
+
 }
