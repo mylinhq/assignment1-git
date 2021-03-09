@@ -11,5 +11,7 @@ public class Hello {
         System.out.println("I love you daddy");
         System.out.println("shrek forever after");
     }
-
+    private void myMethod(){
+        System.out.println(shrek + gingy);
+    }
 }
